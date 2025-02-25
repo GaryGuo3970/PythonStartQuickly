@@ -3,6 +3,7 @@ print(spam)
 print(spam.isalnum()) #是否只包含数字
 print(spam.isalpha())
 
+#other user commit
 #5
 #4
 #1
