@@ -3,8 +3,9 @@ print(spam)
 print(spam.isalnum()) #是否只包含数字
 print(spam.isalpha())
 
-#3
-#31
+
+#1
+#2
 #3
 #rjust 往右移多少位置
 spam = spam+"RIGHT".rjust(10)
