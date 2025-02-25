@@ -3,7 +3,8 @@ print(spam)
 print(spam.isalnum()) #是否只包含数字
 print(spam.isalpha())
 
-
+#5
+#4
 #1
 #2
 #3
